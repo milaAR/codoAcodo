@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.box {
+    font-size: 45px;
+    height: 320px;
+    width: 320px;
+    margin-top: 20px;
+    
+}
+
+.box-red-yellow {
+    background-color: red;
+    color: yellow;
+
+}
+
+.box-black-white {
+    background-color: black;
+    color: white;
+
+}
